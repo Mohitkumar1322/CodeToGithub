@@ -1,0 +1,10 @@
+.node_modules
+.DS_Store   
+*.log
+*.env
+*.tmp
+.history
+# ignore environment / history files
+.env
+.env.*
+.history
